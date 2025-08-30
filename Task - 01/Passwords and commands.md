@@ -4,11 +4,17 @@
 
 
 find   - to find .facility 
+
 cd     - to chaange directory to .facility
+
 ls     - to find hidden files inside .facility
+
 less   - to read txt file inside .facility (gravity equation)
+
 rm     - to remove the .facility directory
+
 cd - to go back to Terminal-Hunt directory using (cd ..)
+
 ls - to find Ring of saturn (ls -la)
 cd - to go near the ring
 ls - (ls -la) to find the wormhole
