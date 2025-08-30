@@ -1,18 +1,18 @@
-**Code -1 (Correct spacing isn't used becuase github makes it look different)**
+**Code -1**
 
-T = int(input())
+    T = int(input())
 
-for i in range(T):
+    for i in range(T):
 
-x = int(input())
+        x = int(input())
     
-if x<=10:
+        if x<=10:
     
-print("YES")
+            print("YES")
         
-else:
+        else:
     
-print("NO")
+            print("NO")
 
 
         
