@@ -1,4 +1,4 @@
-**Code -1 (Correct spcaing isn't used becuase github makes it look different)**
+**Code -1 (Correct spacing isn't used becuase github makes it look different)**
 
 T = int(input())
 
