@@ -1,4 +1,4 @@
-**Code -1**
+**Code -1 (Correct spcaing isn't used becuase github makes it look different)**
 
 T = int(input())
 
@@ -13,5 +13,7 @@ print("YES")
 else:
     
 print("NO")
+
+
         
 
