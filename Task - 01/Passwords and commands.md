@@ -25,6 +25,7 @@ chmod +x .wormhole.sh - to make .sh executable
 
 ./.wormhole.sh to find the password
 
+## Passwords
 
 Password from (1): T25lIGxhc3QgdGFzaywgYW5kIHlvdSdsbCBoYXZlIHN1Y2Nlc3NmdWxseSBjb21
 
